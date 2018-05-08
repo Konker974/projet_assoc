@@ -1,0 +1,33 @@
+= Zeko Lite change log =
+
+Version  1.1.1 - January 12, 2018
+-small translation fixes and fixes for the image license
+
+Version  1.1.0 - January 13, 2018
+-accessibility fixes
+
+Version  1.0.9 - January 12, 2018
+-accessibility fixes
+
+Version  1.0.7, 1.0.8 - January 10, 2018
+-accessibility fixes
+
+Version  1.0.6 - December 30, 2017
+-few prefixing fixes
+
+Version  1.0.5 - December 28, 2017
+-few escaping fixes, removed the left-sidebar tag
+
+Version 1.0.4 - December 23, 2017
+-few escaping fixes, removed the right-sidebar tag
+
+Version 1.0.3 - December 18, 2017
+-added Gutenberg support
+
+Version 1.0.2 - October 23, 2017
+-added one-click demo install
+
+Version 1.0.1 - October 13, 2017
+-small fix for the featured image on the mobiles, removed the padding from the header part
+
+Version 1.0 - October 12, 2017
